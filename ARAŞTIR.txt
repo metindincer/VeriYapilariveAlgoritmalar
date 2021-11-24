@@ -1,0 +1,99 @@
+1) http nedir?
+2) json nedir? 
+3) Restful servis nedir?
+4) callback nedir?
+5) w3 schools arrow function
+6) http metotlar nelerdir?
+
+Flex Design
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+
+css selectors
+https://www.w3schools.com/cssref/css_selectors.asp
+https://code.tutsplus.com/en/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+https://www.w3schools.com/css/default.asp
+
+Js Style guide
+https://www.w3schools.com/js/js_conventions.asp
+
+JS Promise
+https://javascript.info/
+
+JQUERY
+https://www.youtube.com/watch?v=ynG3u3I669o&list=PLWctyKyPphPgqzd2Np8VlKiXhkpAjSV0c
+
+
+
+
+Chrome Ext
+CSS Viewer
+WhatFont
+Page Ruler
+ColorZilla
+Image Downloader
+Corporate Ipsum
+Lightshot
+Fake Filler
+Debug CSS
+
+
+Scaffold-DbContext "Server=.\SQLExpress;Database=SchoolDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+G=73/2=36,5
+a=53/2=26,5
+1B  	3 G1  
+2B  	3 A1
+3C  	3 G2
+4C	2 G
+5B	3 
+6A	4 G
+7B	3
+8A	1
+9C	3 G
+10A	1
+11A	1
+12D	4 G
+13C	2
+14C	2G
+15B	2
+16C	2G
+17B	3
+18D	4G
+19C	2
+20C	3
+21D	4G
+22B	2
+23C	2
+24B	3G
+25D	1
+26B	3G
+27C	2
+28C	3G
+29D	1
+30C	3G
+31C	3G
+32D	1
+33D	4
+34B	3G
+35B	3
+36C	2G
+37C	3G
+38C	3
+39B	2G
+40C	2G
+41C	3G
+42B	2
+43A	1
+44D	4G
+45D	4
+46A	4G
+47A	4G
+48C	3
+
+kendin hakkında soru sor
+
+Profil view 
+Profil düzenle view
+makale ekle view 
+makale görüntüle view 
